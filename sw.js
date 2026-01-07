@@ -1,5 +1,5 @@
 // ⚙️ Sube esto en cada deploy para forzar actualización
-const SW_VERSION = "2026-01-06-01";
+const SW_VERSION = "2026-01-06-02";
 
 const CACHE_NAME = `shell-${SW_VERSION}`;
 
